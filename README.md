@@ -1,2 +1,2 @@
 # mydemo
-this is a git github demo 
+this is a git github demo .
